@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://github.com/taruma/taruma/raw/master/logo.png" width="30%"/>
+  <a href="https://github.com/taruma"><img src="https://github.com/taruma/taruma/raw/master/logo.png" width="30%"/></a>
 </div>
 
 <hr>
@@ -16,4 +16,6 @@ Halo! Perkenalkan, nama saya Taruma. Selamat datang di halaman github saya.
 
 <hr>
 
-[![taruma's github stats](https://github-readme-stats.vercel.app/api?username=taruma&show_icons=true&layout=compact&hide_title=true)](/)
+<div align="center">
+  <a href="https://github.com/taruma"><img src="https://github-readme-stats.vercel.app/api?username=taruma&show_icons=true&layout=compact&hide_title=true" /></a>
+</div>
