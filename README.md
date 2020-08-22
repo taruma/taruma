@@ -16,4 +16,4 @@ Halo! Perkenalkan, nama saya Taruma. Selamat datang di halaman github saya.
 
 <hr>
 
-[![taruma's github stats](https://github-readme-stats.vercel.app/api?username=taruma&show_icons=true&layout=compact&hide_title=true)](#)
+[![taruma's github stats](https://github-readme-stats.vercel.app/api?username=taruma&show_icons=true&layout=compact&hide_title=true)](/)
