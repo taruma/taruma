@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://taruma.github.io/assets/images/taruma-sakti-cover.png" width="90%"/><br/>
-</div>
-
 Halo! Perkenalkan, nama saya Taruma. Selamat datang di halaman github saya. 
 
 - 🌱 Saat ini, saya sedang mempelajari python dan _deep learning_ (pada kasus curah hujan-limpasan/debit aliran).
