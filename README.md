@@ -4,7 +4,7 @@ Halo! nama saya Taruma atau biasa dipanggil dengan Uma.
 
 #### 🔭 I’m currently working on
 
-- [hidrokit](github.com/hidrokit)
+- [hidrokit](//github.com/hidrokit)
 
 #### 🌱 I’m currently learning ...
 
@@ -13,11 +13,11 @@ Halo! nama saya Taruma atau biasa dipanggil dengan Uma.
 
 #### 👯 I’m looking to collaborate on ...
 
-- [hidrokit](github.com/hidrokit/hidrokit)
+- [hidrokit](//github.com/hidrokit/hidrokit)
 
 #### 🤔 I’m looking for help with ...
 
-- [hidrokit](github.com/hidrokit/hidrokit)
+- [hidrokit](//github.com/hidrokit/hidrokit)
 
 #### 💬 Ask me about ...
 
