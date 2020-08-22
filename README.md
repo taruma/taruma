@@ -7,3 +7,7 @@ Halo! Perkenalkan, nama saya Taruma. Selamat datang di halaman github saya.
 - ⚡ Memiliki ketertarikan dalam hal teknologi, kolaborasi, dan proyek _open-source_. 
 - 👯 Membuat organisasi [hidrokit](//github.com/hidrokit) sebagai wadah kolaborasi di bidang sumberdaya air. Mari bergabung dan berkolaborasi!
 - 📫 Hubungi saya melalui github atau twitter di [@tarumainfo](//twitter.com/tarumainfo). 
+
+<hr>
+
+[![taruma's github stats](https://github-readme-stats.vercel.app/api?username=taruma&show_icons=true&layout=compact&hide_title=true)](#)
