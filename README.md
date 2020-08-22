@@ -1,3 +1,9 @@
+<div align="right">
+  <img src="https://github.com/taruma/taruma/raw/master/logo.png" width="30%"/>
+</div>
+
+<hr>
+
 Halo! Perkenalkan, nama saya Taruma. Selamat datang di halaman github saya. 
 
 - 🌱 Saat ini, saya sedang mempelajari python dan _deep learning_ (pada kasus curah hujan-limpasan/debit aliran).
