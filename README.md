@@ -19,3 +19,7 @@ Halo! Perkenalkan, nama saya Taruma. Selamat datang di halaman github saya.
 <div align="center">
   <a href="https://github.com/taruma"><img src="https://github-readme-stats.vercel.app/api?username=taruma&show_icons=true&layout=compact&hide_title=true" /></a>
 </div>
+
+<div align="center">
+  <a href="https://github.com/taruma"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taruma&layout=compact" /></a>
+</div>
