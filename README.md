@@ -1,5 +1,5 @@
-<div align="right">
-  <a href="https://github.com/taruma"><img src="https://github.com/taruma/taruma/raw/master/logo.png" width="35%"/></a>
+<div align="center">
+  <a href="https://github.com/taruma"><img src="https://github.com/taruma/taruma/raw/master/logo_2022.png" width="50%"/></a>
 </div>
 
 <hr>
