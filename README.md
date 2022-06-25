@@ -12,7 +12,7 @@ Halo! Perkenalkan, nama saya Taruma. Selamat datang di halaman github saya.
 - 💬 Tanya saya tentang pengalaman belajar python atau _deep learning_ atau apa saja.
 - ⚡ Memiliki ketertarikan dalam hal teknologi, kolaborasi, dan proyek _open-source_. 
 - 👯 Membuat organisasi [hidrokit](//github.com/hidrokit) sebagai wadah kolaborasi di bidang sumberdaya air. Mari bergabung dan berkolaborasi!
-- 📫 Hubungi saya melalui email di hi@taruma.info atau melalui github (@taruma) atau twitter di [@tarumainfo](//twitter.com/tarumainfo). 
+- 📫 Hubungi saya melalui email di hi@taruma.info. 
 
 <hr>
 
